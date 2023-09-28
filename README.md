@@ -14,3 +14,8 @@ Atualmente, a linguagem Java possui 8 tipos primitivos. Que são eles:
 |  | double| -4,94E-307| 1.79769313486231570E+ 308| 0|64 bits| double ex6= 10.20d; ou double ex6= 10.20; |
 |Caractere| char| 0 | 65535| \0| 16 bits| char ex7= 194; ou char ex8= 'a';|
 |Booleano| boolean| false|true| false| 1 bit| boolean ex9= true;|
+# Referência
+
+ - [BootCamp DIO Java - Santander](https://dio.me)
+ - [Tipos primitivos](http://www.universidadejava.com.br/materiais/java-tipos-primitivos/)
+ - [LinkedIn](https://www.linkedin.com/in/renara-xavier-541541225/)
