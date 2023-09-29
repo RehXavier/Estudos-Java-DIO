@@ -14,6 +14,16 @@ Atualmente, a linguagem Java possui 8 tipos primitivos. Que são eles:
 |  | double| -4,94E-307| 1.79769313486231570E+ 308| 0|64 bits| double ex6= 10.20d; ou double ex6= 10.20; |
 |Caractere| char| 0 | 65535| \0| 16 bits| char ex7= 194; ou char ex8= 'a';|
 |Booleano| boolean| false|true| false| 1 bit| boolean ex9= true;|
+# String
+Uma String armazena uma sequência de caracteres. Apesar de ser fácil de utilizar, essa classe possui diversas características que podem não ser óbvias para quem está tendo o seu primeiro contato com ela. Por exemplo, um objeto String é imutável, o que significa que o texto que ele carrega nunca é alterado.
+Para criar uma string você deve manter a sintaxe [tipo] [nome] = [valor]. 
+|Ex1 = | String texto = "O que você escrever aqui é uma String"| 
+|--------| |-------| 
+
+Observe que nesse exemplo a String é bem simples. Mas tem outros tipos, aconselho você pesquisar mais afundo. 
+
+Dica de site -[DEVMEDIA](https://devmedia.com.br/), site bem intuitivo com uma boa interface e dicas bem bacanas sobre Java Básico.
+
 # Referência
 
  - [BootCamp DIO Java - Santander](https://dio.me)
