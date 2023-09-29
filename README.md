@@ -18,7 +18,7 @@ Atualmente, a linguagem Java possui 8 tipos primitivos. Que são eles:
 Uma String armazena uma sequência de caracteres. Apesar de ser fácil de utilizar, essa classe possui diversas características que podem não ser óbvias para quem está tendo o seu primeiro contato com ela. Por exemplo, um objeto String é imutável, o que significa que o texto que ele carrega nunca é alterado.
 Para criar uma string você deve manter a sintaxe [tipo] [nome] = [valor]. 
 |Ex1 = | String texto = "O que você escrever aqui é uma String"| 
-|--------| |-------| 
+|--------| |------- 
 
 
 Observe que nesse exemplo a String é bem simples. Mas tem outros tipos, aconselho você pesquisar mais afundo. 
