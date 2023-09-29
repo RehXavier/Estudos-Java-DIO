@@ -20,6 +20,7 @@ Para criar uma string você deve manter a sintaxe [tipo] [nome] = [valor].
 |Ex1 = | String texto = "O que você escrever aqui é uma String"| 
 |--------| |-------| 
 
+
 Observe que nesse exemplo a String é bem simples. Mas tem outros tipos, aconselho você pesquisar mais afundo. 
 
 Dica de site -[DEVMEDIA](https://devmedia.com.br/), site bem intuitivo com uma boa interface e dicas bem bacanas sobre Java Básico.
